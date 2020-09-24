@@ -71,7 +71,7 @@ We have not set-up a website to host DartPoll yet. For now, you can follow these
 
 **STEP 1**
 
-Open your terminal and change the current working directory to the location where you want your cloned directory. Then type git clone ```https://github.com/msorbaro/coast-to-coast.git``` and hit enter.
+Open your terminal and change the current working directory to the location where you want your cloned directory. Then type git clone ```https://github.com/brianwang26/DartPoll.git``` and hit enter.
 
 **STEP 2**
 
